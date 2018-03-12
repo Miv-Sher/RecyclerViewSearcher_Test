@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.viethoa:fastscroller-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fastscroller-1.2.0.aar/5c5be20db770c447f1828dd3955ebd78/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fastscroller-1.2.0.aar/5c5be20db770c447f1828dd3955ebd78/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.viethoa/fastscroller/1.2.0/243c0119d66d7de7dd18da5df3aa1307e131ecb7/fastscroller-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
