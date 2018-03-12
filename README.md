@@ -1,1 +1,3 @@
-RecyclerViewSearcher_Test
+RecyclerView + FastScrollerRecycler + SearchView (через фильтр в адаптере) + ContactAPI
+
+Запомнить: начиная с маршмеллоу требует помимо запроса разрешения в манифесте также запрос в рантайме, иначе - фатал еррор.
